@@ -16,5 +16,6 @@
   - conda activate inference
 - Run for Inferencing
   - python TFLite_detection_webcam.py --modeldir=""
+- To terminate just press "q".
 
    
