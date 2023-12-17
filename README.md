@@ -1,6 +1,6 @@
-INSIDE THE FOLDER EXECUTE THIS IN TERMINAL.
+# INSIDE THE FOLDER EXECUTE THIS IN TERMINAL.
 
-# Preparation
+## Preparation
 
 1. Install Anaconda
     *Create Virtual Environment
@@ -10,7 +10,7 @@ INSIDE THE FOLDER EXECUTE THIS IN TERMINAL.
 3. Install Dependencies
       **pip install tensorflow opencv-python protobuf==3.20
 
-# Inferencing 
+## Inferencing 
 
 1. Activate the Environment
       ** conda activate inference
