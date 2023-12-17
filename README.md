@@ -4,7 +4,7 @@
 
 ### Install Anaconda
 - Create Virtual Environment
-      **conda create --name inference python=3.9
+-- conda create --name inference python=3.9
 2. Activate the Environment
       **conda activate automatic
 3. Install Dependencies
