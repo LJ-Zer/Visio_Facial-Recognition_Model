@@ -4,17 +4,17 @@
 
 ### Install Anaconda
 - Create Virtual Environment
-       - conda create --name inference python=3.9
+  - conda create --name inference python=3.9
 - Activate the Environment
-       - conda activate automatic
+  - conda activate automatic
 - Install Dependencies
-       - pip install tensorflow opencv-python protobuf==3.20
+  - pip install tensorflow opencv-python protobuf==3.20
 
 ### Inferencing 
 
 - Activate the Environment
-       - conda activate inference
+  - conda activate inference
 - Run for Inferencing
-       - python TFLite_detection_webcam.py --modeldir=""
+  - python TFLite_detection_webcam.py --modeldir=""
 
    
